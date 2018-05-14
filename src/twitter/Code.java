@@ -10,10 +10,16 @@ import java.util.regex.Matcher;
 import java.util.Scanner;
 import java.util.ArrayList;
 import java.io.*;
+
+// Complete Challenge - Test passed
+
 public class Code {
 
 	public static void main(String[] args) {
-		/*int num =0;
+		
+		// Challenge 1
+		
+		int num =0;
 		int dum = 0;
 		int newPrintNum;
 		int newPageNum;
@@ -101,8 +107,10 @@ time++;
       
 System.out.println("The total time taken by " + printerNum + " printers " + " to print " + papers + " papers is " +
 	time + " seconds");
-*/
-	/*	ArrayList<String>google = new ArrayList<>();
+		
+		// Challenge Number 2
+
+		ArrayList<String>google = new ArrayList<>();
         ArrayList<String>obama = new ArrayList<>();
         ArrayList<String>kingJames = new ArrayList<>();
         ArrayList<String>billGates = new ArrayList<>();
